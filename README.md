@@ -1,5 +1,7 @@
 # The Cyber Safety Toolkit
 ![image](https://github.com/hschuch-04/qps-application/assets/46430331/d44164c5-4c2e-421e-a640-f25d842ca598)
+## Diclaimer
+*Due to signing an agreement with QPS, the raw files cannot be included in this repository, and is just to go into detail about the project*
 
 ## Introduction
 ### User
